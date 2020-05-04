@@ -762,3 +762,4 @@ when i leave? BIOS PC is not leave. GO now on tekken king miguel vs your kaz""",
 дойдешь или сдохнешь
 с жвачкой во рту
 там 50+50"""]
+'Не знаю. Я думал, что Яп - загадка. А теперь загадка в том, что можно найти в Япе'
